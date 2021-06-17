@@ -1,0 +1,3 @@
+Miasto: 1111111111 Imię: aaaaaa Nazwisko : 1111111 PESEL: 00210215009
+Miasto: qq Imię: qq Nazwisko : qq PESEL: 00210284313
+Miasto: qwe Imię: qwe Nazwisko : qwe PESEL: 00212141319
